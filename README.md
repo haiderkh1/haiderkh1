@@ -1,6 +1,6 @@
 ### Hi there, I'm Haider 👋
 
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=bdb859&lines=I'm+a+Frontend+Developer)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=d9eb4b&lines=I'm+a+Frontend+Developer)
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
