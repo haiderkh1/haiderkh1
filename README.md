@@ -8,6 +8,8 @@
 - 🔭 Working on multiple frontend projects using vue js and javascript
 - 🌱 Learning design patterns in depth
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haiderkh1&label=Profile%20views&color=129e00&style=plastic" alt="haiderkh1" /> </p>
+
 ### Connect with me 👇
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/haider-khan-1ab81a193/)
