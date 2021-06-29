@@ -2,7 +2,7 @@
 
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=d9eb4b&lines=I'm+a+Frontend+Developer)
 
-<h4>I'm 25-year-old boy on an intention to enhance as a successful front end developer. I love building front end website/ applications. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community.</h4>
+<h2>I'm 25-year-old boy on an intention to enhance as a successful front end developer. I love building front end website/ applications. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community.</h2>
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
