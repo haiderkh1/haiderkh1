@@ -1,6 +1,6 @@
 ### Hi there, I'm Haider 👋
 
-## I'm a front end Developer from Pakistan
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=49D3DF&lines=I'm+a+Frontend+Developer)
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
