@@ -1,4 +1,4 @@
-### Hi there, I'm Haider 👋
+<h2 align="center">Hi there, I'm Haider <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=d9eb4b&lines=I'm+a+Frontend+Developer)
 
