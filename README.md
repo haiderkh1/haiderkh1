@@ -41,7 +41,8 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haiderkh1&show_icons=true&locale=en&layout=compact" alt="haiderkh1" /></p> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haiderkh1&language=compact)]
+<img src = "https://github-readme-stats.vercel.app/api?username=haiderh1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 <br/>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haiderkh1&show_icons=true&locale=en" alt="haiderkh1" /></p> -->
