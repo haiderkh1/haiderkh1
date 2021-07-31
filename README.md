@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 🔭 Working on multiple frontend projects using vue js and javascript
+- 🔭 Working on frontend projects using vue js and javascript
 - 🌱 Learning design patterns in depth
 - 📫 How to reach me **khaider83@yahoo.com**
 
