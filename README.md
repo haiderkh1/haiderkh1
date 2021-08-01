@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Haider <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-![](https://readme-typing-svg.herokuapp.com?font=Dancing Script&color=d9eb4b&lines=I'm+a+Frontend+Developer)
+![](https://readme-typing-svg.herokuapp.com?font=DancingScript&color=d9eb4b&lines=I'm+a+Frontend+Developer)
 
 <h3>a 25-year-old boy on an intention to enhance as a successful front end developer. I love building front end website/ applications. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community.</h3>
 
