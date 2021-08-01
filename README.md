@@ -49,4 +49,4 @@
 <br/>
 <br/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=haiderkh1&theme=blue-green)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=haiderkh1&theme=vision-friendly-dark)](https://git.io/streak-stats)
