@@ -2,7 +2,6 @@
 
 ![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+Front+-end+Developer)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haiderkh1&label=Profile%20views&color=0e75b6&style=flat" alt="haiderkh1" /> </p>
 
 - 🔭 I’m currently working on **frontend projects using Vue.js and JavaScript**
 
