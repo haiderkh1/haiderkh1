@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **with other content creators**
 
-- 👨‍💻 All of my projects are available at [https://pflio.netlify.app/](https://pflio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://pfolioo.netlify.app](https://pfolioo.netlify.app)
 
 - 💬 Ask me about **JavaScript Html CSS WordPress**
 
